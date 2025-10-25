@@ -1,0 +1,26 @@
+{
+  "name": "onlinequran-school",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@next/third-parties": "^15.5.6",
+    "@supabase/supabase-js": "^2.43.0",
+    "axios": "^1.7.7",
+    "next": "15.5.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^15.5.6",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18"
+  }
+}
